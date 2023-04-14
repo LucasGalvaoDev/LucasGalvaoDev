@@ -1,5 +1,5 @@
 ### Oi, meu nome é Lucas Galvão
-Desenvolvedor full-stack, especialista em c#.
+Desenvolvedor full-stack e especialista em c#.
 
 - 👩🏻‍💻 Sou formado em análise e desenvolvimento de sistemas
 - 🎸 Amo música e quando não estou estudando sempre estou com minha guitarra ou meu violão comigo.

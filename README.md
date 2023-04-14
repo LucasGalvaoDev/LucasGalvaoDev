@@ -2,16 +2,26 @@
 Desenvolvedor full-stack, especialista em c#.
 
 - 👩🏻‍💻 Sou formado em análise e desenvolvimento de sistemas
-- Amo música e quando não estou estudando sempre estou com minha guitarra ou meu violão comigo.
-- Trabalhei durante aproximadamente 2 anos com C#, JS e ReactJs.
-- Atualmente focado em:
+- 🎸 Amo música e quando não estou estudando sempre estou com minha guitarra ou meu violão comigo.
+- 💻Trabalhei durante aproximadamente 2 anos com C# e JS.
+- 📈 Trabalhei 1 ano com ReactJs e hoje estou me aprimorando cada vez mais.
+- 🎯 Atualmente focado em:
 
 <div display="inline">
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
+</div>
+
+##
+
+<div style="display: flex; flex-direction: column;" height="200">
+   <a href="https://github.com/LucasGalvaoDev">
+   <img align=top height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasGalvaoDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img align=top height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGalvaoDev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##

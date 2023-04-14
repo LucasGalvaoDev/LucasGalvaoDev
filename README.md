@@ -7,13 +7,14 @@ Desenvolvedor full-stack, especialista em c#.
 - 📈 Trabalhei 1 ano com ReactJs e hoje estou me aprimorando cada vez mais.
 - 🎯 Atualmente focado em:
 
+&nbsp;
 <div display="inline">
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
 </div>
 
 ##

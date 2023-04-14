@@ -2,7 +2,7 @@
 Desenvolvedor full-stack e especialista em c#.
 
 - 👩🏻‍💻 Sou formado em análise e desenvolvimento de sistemas
-- 🎸 Amo música e quando não estou estudando sempre estou com minha guitarra ou meu violão comigo.
+- 🎸 Amo música e quando não estou estudando, estou com minha guitarra ou meu violão comigo.
 - 💻Trabalhei durante aproximadamente 2 anos com C# e JS.
 - 📈 Trabalhei 1 ano com ReactJs e hoje estou me aprimorando cada vez mais.
 - 🎯 Atualmente focado em:
